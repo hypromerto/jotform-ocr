@@ -28,4 +28,5 @@ npm start
 ```
 
 You have to obtain an [API key](https://www.jotform.com/myaccount/api) from [JotForm](https://www.jotform.com) in order to use the application.
+
 Insert the API key into its place specified in "upload.php". 
