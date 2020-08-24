@@ -1,0 +1,6 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.9",
+        "jotform/jotform-api-php": "dev-master"
+    }
+}
